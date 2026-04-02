@@ -1,6 +1,4 @@
-## Hi there 👋
-
-## 👋 Hi, I'm Dmitrijs 
+## 👋 Hi, I'm [Dmitrijs](https://www.linkedin.com/in/astrosaps/)
 
 🎓 Software Development student at Riga Technical University (B.Sc. Intelligent Computer Technologies, 2022–2026)
 📍 Riga, Latvia (EU)
@@ -34,6 +32,7 @@ Russian (Native) | Latvian (B1) | English (B1) | German (B1)
 
 📌 Currently looking for:
 Internship / Junior position in Machine Learning, Computer Vision, or Software Development
+Email - Dmitrijs.Astrosaps@edu.rtu.lv
 
 ⬇️ Check out my projects below
 <!--
