@@ -13,8 +13,8 @@ I focus on building practical machine learning and computer vision solutions, co
 - Build end-to-end solutions: from idea and research to implementation
 
 🚀 Key achievements:
-- 🥇 1st place – Deep Science Challenge (Smart Windows for Energy-Efficient Buildings)
-- 🏆 1st place (Team "Neamo") & finalist – CASSINI Space Hackathon
+- 🥇 1st place – [Deep Science Challenge (Smart Windows for Energy-Efficient Buildings)](https://devpost.com/software/ecowind)
+- 🏆 1st place - [(Team "Neamo") & finalist – CASSINI Space Hackathon](https://latviaspace.gov.lv/en/news-events/success-latvian-talents-compete-in-the-european-unions-7th-cassini-space-hackathon-final/)
 - 📊 Experience with data analysis and research using Copernicus-based datasets
 
 🔧 Technical skills:
