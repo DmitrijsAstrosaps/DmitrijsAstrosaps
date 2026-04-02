@@ -32,6 +32,7 @@ Russian (Native) | Latvian (B1) | English (B1) | German (B1)
 
 📌 Currently looking for:
 Internship / Junior position in Machine Learning, Computer Vision, or Software Development
+
 Email - Dmitrijs.Astrosaps@edu.rtu.lv
 
 ⬇️ Check out my projects below
