@@ -29,7 +29,7 @@ I focus on building practical machine learning and computer vision solutions, co
 - Structured and detail-oriented development approach
 
 🌍 Languages:
-Russian (Native) | Latvian (B1) | English (B1) | German (B1)
+Russian (Native) | Latvian (B1) | English (B2) | German (B1)
 
 📌 Currently looking for:
 Internship / Junior position in Machine Learning, Computer Vision, or Software Development
