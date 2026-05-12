@@ -17,7 +17,7 @@ I focus on building practical machine learning and computer vision solutions, co
 - 📊 Experience with data analysis and research using Copernicus-based datasets
 
 🔧 Technical skills:
-- Languages: Python, Java, C#, C++, JavaScript, SQL
+- Languages: Python, Java, C#, C++, JavaScript, HTML, CSS, SQL
 - ML/AI: TensorFlow, PyTorch, NumPy
 - Tools: Unity, Blender, GIMP, ABB RobotStudio, Microcontroller systems
 - Other: Git, data analysis, basic automation systems
